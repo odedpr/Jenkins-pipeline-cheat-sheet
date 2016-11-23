@@ -6,7 +6,7 @@ Cheat Sheet for Jenkins Pipeline Plugin
 * [Github: pipeline-plugin](https://github.com/jenkinsci/pipeline-plugin)
 * [Pipeline Steps Reference](https://jenkins.io/doc/pipeline/steps/)
 
-## from cloudBees
+## From cloudBees
 * [new-way-do-continuous-delivery-maven-and-jenkins-pipeline](https://www.cloudbees.com/blog/new-way-do-continuous-delivery-maven-and-jenkins-pipeline)
 
 ## Tutorials
